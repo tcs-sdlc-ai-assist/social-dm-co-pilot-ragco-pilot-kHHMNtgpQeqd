@@ -1,0 +1,246 @@
+[
+  {
+    "id": "kb-001",
+    "category": "pricing",
+    "question": "What is the price range for land lots at Stockland Willowdale?",
+    "answer": "Land lots at Stockland Willowdale start from $420,000 for a standard 300sqm lot and range up to $750,000 for premium corner lots of 600sqm or more. Pricing varies based on lot size, position, and proximity to parks and amenities. We recommend speaking with our sales team for the most current availability and pricing.",
+    "propertyInfo": {
+      "community": "Willowdale",
+      "location": "Leppington, NSW",
+      "priceRange": "$420,000 - $750,000",
+      "lotSizes": "300sqm - 600sqm+"
+    },
+    "tags": ["pricing", "land", "willowdale", "leppington"]
+  },
+  {
+    "id": "kb-002",
+    "category": "pricing",
+    "question": "Are there any house and land packages available at Stockland Aura?",
+    "answer": "Yes, Stockland Aura offers a range of house and land packages starting from $580,000 for a 3-bedroom home on a 250sqm lot. Premium packages with 4-5 bedrooms on larger lots range up to $950,000. Packages are available through our preferred builder partners including Metricon, Coral Homes, and Ausbuild. Finance pre-approval is recommended before selecting a package.",
+    "propertyInfo": {
+      "community": "Aura",
+      "location": "Caloundra South, QLD",
+      "priceRange": "$580,000 - $950,000",
+      "packageTypes": ["3-bedroom", "4-bedroom", "5-bedroom"]
+    },
+    "tags": ["pricing", "house-and-land", "aura", "caloundra"]
+  },
+  {
+    "id": "kb-003",
+    "category": "location",
+    "question": "Where is Stockland Elara located and how far is it from Sydney CBD?",
+    "answer": "Stockland Elara is located in Marsden Park in Sydney's North West Growth Area. It is approximately 45km from the Sydney CBD, with travel times of around 45-55 minutes by car via the M7 Motorway. The community is well-connected with Schofields train station approximately 5 minutes away, providing direct access to the T1 Western Line into the city.",
+    "propertyInfo": {
+      "community": "Elara",
+      "location": "Marsden Park, NSW",
+      "distanceToCBD": "45km",
+      "nearestStation": "Schofields"
+    },
+    "tags": ["location", "transport", "elara", "marsden-park"]
+  },
+  {
+    "id": "kb-004",
+    "category": "community-features",
+    "question": "What amenities are available at Stockland Cloverton?",
+    "answer": "Stockland Cloverton features an extensive range of amenities including a town centre with retail and dining options, a community centre, multiple parks and playgrounds, walking and cycling trails, sports fields, a future primary school, and a planned aquatic centre. The community also includes a dedicated dog park and BBQ areas for residents to enjoy.",
+    "propertyInfo": {
+      "community": "Cloverton",
+      "location": "Kalkallo, VIC",
+      "amenities": ["town centre", "community centre", "parks", "playgrounds", "sports fields", "dog park", "walking trails", "cycling trails"]
+    },
+    "tags": ["amenities", "community", "cloverton", "kalkallo"]
+  },
+  {
+    "id": "kb-005",
+    "category": "faq",
+    "question": "What is the process for purchasing a lot at a Stockland community?",
+    "answer": "The purchase process involves several steps: 1) Visit our sales centre or website to explore available lots. 2) Select your preferred lot and pay a holding deposit (typically $1,000-$2,000). 3) Review and sign the contract of sale within the cooling-off period. 4) Pay the deposit balance (usually 10% of the purchase price). 5) Arrange finance approval. 6) Settlement occurs once the lot is titled and registered, typically 6-18 months depending on the stage of development. We recommend engaging a solicitor or conveyancer early in the process.",
+    "propertyInfo": null,
+    "tags": ["process", "purchasing", "settlement", "deposit"]
+  },
+  {
+    "id": "kb-006",
+    "category": "faq",
+    "question": "Does Stockland offer any first home buyer incentives?",
+    "answer": "While Stockland does not directly offer first home buyer grants, our sales team can help you navigate available government incentives. Depending on your state, you may be eligible for the First Home Owner Grant (FHOG) of $10,000-$30,000 for new builds, stamp duty concessions or exemptions, and the First Home Guarantee scheme allowing purchases with as little as 5% deposit. We also periodically run promotional offers on selected lots that can benefit first home buyers.",
+    "propertyInfo": null,
+    "tags": ["first-home-buyer", "grants", "incentives", "government"]
+  },
+  {
+    "id": "kb-007",
+    "category": "pricing",
+    "question": "What are the ongoing costs and fees for living in a Stockland community?",
+    "answer": "Ongoing costs vary by community but typically include council rates ($1,200-$2,500 per year), water and sewerage charges ($800-$1,500 per year), and in some communities, a community association levy ($300-$800 per year) that covers maintenance of shared amenities, landscaping, and community facilities. There are no body corporate fees for freestanding homes on individual lots.",
+    "propertyInfo": null,
+    "tags": ["fees", "ongoing-costs", "rates", "community-levy"]
+  },
+  {
+    "id": "kb-008",
+    "category": "community-features",
+    "question": "What schools are near Stockland Willowdale?",
+    "answer": "Stockland Willowdale has excellent access to education facilities. Within the community, Willowdale Primary School (public) is now open. Nearby schools include Leppington Public School (1.5km), Catherine Park Public School (2km), and Robert Townson High School (4km). Several private schools are also accessible including Oran Park Anglican College (5km) and Macarthur Anglican School (8km). A future high school is planned for the broader Leppington precinct.",
+    "propertyInfo": {
+      "community": "Willowdale",
+      "location": "Leppington, NSW",
+      "nearbySchools": ["Willowdale Primary School", "Leppington Public School", "Catherine Park Public School", "Robert Townson High School"]
+    },
+    "tags": ["schools", "education", "willowdale", "leppington"]
+  },
+  {
+    "id": "kb-009",
+    "category": "location",
+    "question": "What public transport options are available near Stockland Aura?",
+    "answer": "Stockland Aura is serviced by multiple bus routes connecting to the Sunshine Coast and Brisbane. The Caloundra bus interchange is approximately 10 minutes away, providing connections across the Sunshine Coast region. The planned Sunshine Coast Mass Transit corridor will further enhance public transport access in the future. The Bruce Highway is easily accessible for commuters heading to Brisbane (approximately 1 hour drive).",
+    "propertyInfo": {
+      "community": "Aura",
+      "location": "Caloundra South, QLD",
+      "transportOptions": ["bus routes", "Bruce Highway", "future mass transit"]
+    },
+    "tags": ["transport", "public-transport", "aura", "caloundra"]
+  },
+  {
+    "id": "kb-010",
+    "category": "faq",
+    "question": "Can I choose my own builder at a Stockland community?",
+    "answer": "Yes, in most Stockland communities you can choose your own builder, provided they meet our design guidelines and building covenants. We also have a panel of preferred builders who are familiar with our communities and design requirements, which can simplify the building process. All homes must comply with the community's design guidelines, which cover aspects such as facade design, setbacks, landscaping, and materials to ensure a high-quality streetscape.",
+    "propertyInfo": null,
+    "tags": ["builder", "design-guidelines", "covenants", "construction"]
+  },
+  {
+    "id": "kb-011",
+    "category": "community-features",
+    "question": "What sustainability features are included in Stockland communities?",
+    "answer": "Stockland is committed to sustainability across all our communities. Key features include water-sensitive urban design (WSUD) for stormwater management, native landscaping and biodiversity corridors, energy-efficient street lighting, recycled water systems in select communities, electric vehicle charging infrastructure in newer developments, and community gardens. Our communities are designed to achieve a minimum 4-star Green Star Communities rating.",
+    "propertyInfo": null,
+    "tags": ["sustainability", "green-star", "environment", "energy-efficient"]
+  },
+  {
+    "id": "kb-012",
+    "category": "pricing",
+    "question": "What is the deposit required to secure a lot at Stockland?",
+    "answer": "To secure a lot at any Stockland community, an initial holding deposit of $1,000-$2,000 is required at the time of reservation. The full deposit of 10% of the purchase price is then due upon signing the contract of sale (typically within 14-21 days). The holding deposit forms part of the 10% deposit. In some cases, we may accept a reduced deposit by arrangement — please discuss this with our sales team.",
+    "propertyInfo": null,
+    "tags": ["deposit", "pricing", "purchasing", "finance"]
+  },
+  {
+    "id": "kb-013",
+    "category": "location",
+    "question": "What shopping and retail options are near Stockland Cloverton?",
+    "answer": "Stockland Cloverton residents have access to the on-site Cloverton Town Centre which includes a Woolworths supermarket, specialty retailers, cafes, and essential services. The larger Craigieburn Central shopping centre is approximately 10 minutes drive away, offering major retailers including Kmart, Target, and Coles. Highpoint Shopping Centre and Westfield Plenty Valley are also within a 25-minute drive.",
+    "propertyInfo": {
+      "community": "Cloverton",
+      "location": "Kalkallo, VIC",
+      "nearbyRetail": ["Cloverton Town Centre", "Craigieburn Central", "Highpoint Shopping Centre", "Westfield Plenty Valley"]
+    },
+    "tags": ["shopping", "retail", "cloverton", "kalkallo"]
+  },
+  {
+    "id": "kb-014",
+    "category": "faq",
+    "question": "What are the design guidelines and building covenants at Stockland communities?",
+    "answer": "Stockland's design guidelines ensure a consistent, high-quality streetscape across our communities. Key requirements typically include: minimum facade articulation and material variety, approved colour palettes for exteriors, minimum front landscaping requirements (usually within 90 days of occupancy), fencing specifications for front, side, and rear boundaries, minimum dwelling size requirements (typically 140-180sqm depending on lot size), and setback requirements. Full design guidelines are provided with your contract of sale.",
+    "propertyInfo": null,
+    "tags": ["design-guidelines", "covenants", "building", "facade"]
+  },
+  {
+    "id": "kb-015",
+    "category": "pricing",
+    "question": "Are there any current promotions or special offers at Stockland communities?",
+    "answer": "Stockland regularly runs promotional offers across our communities. Current offers may include rebates on selected lots, landscaping packages, fencing packages, or upgrades with preferred builders. Promotions vary by community and change frequently. I recommend contacting our sales team or visiting the specific community's page on stockland.com.au for the latest offers. We can also add you to our mailing list to receive notifications about new promotions.",
+    "propertyInfo": null,
+    "tags": ["promotions", "offers", "rebates", "packages"]
+  },
+  {
+    "id": "kb-016",
+    "category": "community-features",
+    "question": "Does Stockland Elara have parks and recreational facilities?",
+    "answer": "Stockland Elara features over 50 hectares of open space and parklands. Key recreational facilities include The Elara Hilltop Park with panoramic views, multiple neighbourhood playgrounds, a fitness station circuit, basketball half-courts, cricket nets, extensive walking and cycling paths, and BBQ and picnic areas. The community also features the Elara Boulevard linear park, providing a green corridor through the heart of the development.",
+    "propertyInfo": {
+      "community": "Elara",
+      "location": "Marsden Park, NSW",
+      "openSpace": "50+ hectares",
+      "facilities": ["Hilltop Park", "playgrounds", "fitness stations", "basketball courts", "cricket nets", "walking paths", "cycling paths"]
+    },
+    "tags": ["parks", "recreation", "elara", "marsden-park"]
+  },
+  {
+    "id": "kb-017",
+    "category": "faq",
+    "question": "How long does it take from purchase to settlement at Stockland?",
+    "answer": "Settlement timeframes depend on the stage of development for your selected lot. For titled lots (already registered), settlement typically occurs within 30-90 days of contract exchange. For untitled lots in future stages, settlement occurs once the lot is registered with the relevant land titles office, which can take 6-18 months depending on civil works progress. We provide regular construction updates to keep you informed of progress toward titling.",
+    "propertyInfo": null,
+    "tags": ["settlement", "timeline", "titling", "registration"]
+  },
+  {
+    "id": "kb-018",
+    "category": "location",
+    "question": "What healthcare facilities are near Stockland Willowdale?",
+    "answer": "Stockland Willowdale has good access to healthcare services. The Leppington Medical Centre is located within the community, offering GP services. Camden Hospital is approximately 15 minutes drive, and Campbelltown Hospital (a major public hospital with emergency department) is about 20 minutes away. Liverpool Hospital, one of Sydney's largest teaching hospitals, is approximately 25 minutes drive. Several dental, physiotherapy, and specialist practices are available in nearby Oran Park and Gregory Hills.",
+    "propertyInfo": {
+      "community": "Willowdale",
+      "location": "Leppington, NSW",
+      "nearbyHealthcare": ["Leppington Medical Centre", "Camden Hospital", "Campbelltown Hospital", "Liverpool Hospital"]
+    },
+    "tags": ["healthcare", "medical", "hospital", "willowdale"]
+  },
+  {
+    "id": "kb-019",
+    "category": "faq",
+    "question": "Can I visit a Stockland sales centre and what should I bring?",
+    "answer": "Absolutely! Our sales centres are open 7 days a week, typically from 10am-5pm (hours may vary by location). No appointment is necessary, but booking ahead ensures a dedicated sales consultant is available for you. We recommend bringing: photo ID, pre-approval letter from your lender (if available), a list of your requirements (lot size, budget, preferred orientation), and any questions you have. Our consultants can walk you through available lots, pricing, and the purchase process.",
+    "propertyInfo": null,
+    "tags": ["sales-centre", "visit", "appointment", "consultation"]
+  },
+  {
+    "id": "kb-020",
+    "category": "community-features",
+    "question": "What internet and connectivity options are available at Stockland communities?",
+    "answer": "All new Stockland communities are connected to the NBN (National Broadband Network), with most offering Fibre to the Premises (FTTP) connections providing the fastest available speeds. Residents can choose from any NBN-compatible internet service provider. Select communities also feature smart community technology including community Wi-Fi in common areas, smart home-ready infrastructure, and digital community notice boards. 5G mobile coverage is available in most of our metropolitan communities.",
+    "propertyInfo": null,
+    "tags": ["internet", "nbn", "connectivity", "smart-home"]
+  },
+  {
+    "id": "kb-021",
+    "category": "pricing",
+    "question": "What stamp duty will I need to pay on a Stockland land purchase?",
+    "answer": "Stamp duty varies by state and purchase price. As a guide: In NSW, stamp duty on a $500,000 land purchase is approximately $17,990 (with concessions available for first home buyers on properties under $800,000). In VIC, stamp duty on a $400,000 land purchase is approximately $13,070 (first home buyers may be exempt on properties under $600,000). In QLD, stamp duty on a $450,000 purchase is approximately $10,600 (concessions apply for first home buyers). We recommend consulting your solicitor or conveyancer for exact calculations.",
+    "propertyInfo": null,
+    "tags": ["stamp-duty", "costs", "government", "first-home-buyer"]
+  },
+  {
+    "id": "kb-022",
+    "category": "community-features",
+    "question": "Are there community events and social activities at Stockland developments?",
+    "answer": "Yes, Stockland actively fosters community connection through a range of events and programs. These include regular community markets, seasonal festivals (Easter, Christmas, Halloween), outdoor movie nights, fitness classes in parks, new resident welcome events, school holiday programs for children, and community planting days. Our dedicated Community Development team coordinates these activities and works with residents to build a strong sense of belonging.",
+    "propertyInfo": null,
+    "tags": ["events", "community", "social", "activities"]
+  },
+  {
+    "id": "kb-023",
+    "category": "faq",
+    "question": "What happens if my circumstances change and I need to cancel my purchase?",
+    "answer": "If you need to cancel your purchase, the process depends on the stage of your contract. During the cooling-off period (typically 5 business days in NSW, 3 in VIC, 5 in QLD), you can rescind the contract with a small penalty (usually 0.25% of the purchase price). After the cooling-off period, cancellation may result in forfeiture of your deposit. We recommend discussing any concerns with your solicitor as early as possible. In some circumstances, Stockland may consider contract variations or lot transfers on a case-by-case basis.",
+    "propertyInfo": null,
+    "tags": ["cancellation", "cooling-off", "contract", "rescission"]
+  },
+  {
+    "id": "kb-024",
+    "category": "location",
+    "question": "What employment hubs are accessible from Stockland Aura?",
+    "answer": "Stockland Aura provides access to several major employment hubs on the Sunshine Coast. The Caloundra CBD is approximately 10 minutes away, Maroochydore (the Sunshine Coast's main business district) is 25 minutes, and the new Sunshine Coast International Airport at Marcoola is 30 minutes. The Aura Business Park within the community is also attracting employers, creating local job opportunities. Brisbane CBD is accessible within approximately 1 hour via the Bruce Highway.",
+    "propertyInfo": {
+      "community": "Aura",
+      "location": "Caloundra South, QLD",
+      "nearbyEmployment": ["Caloundra CBD", "Maroochydore", "Sunshine Coast Airport", "Aura Business Park", "Brisbane CBD"]
+    },
+    "tags": ["employment", "jobs", "commute", "aura"]
+  },
+  {
+    "id": "kb-025",
+    "category": "faq",
+    "question": "Does Stockland offer any assistance with home financing?",
+    "answer": "While Stockland is not a financial institution, we work with a network of mortgage brokers and financial advisors who specialise in new home purchases. Our sales team can provide referrals to trusted finance professionals who can assist with pre-approval, loan comparison, and understanding government grants and incentives. We also host regular first home buyer seminars that cover budgeting, finance options, and the purchasing process at no cost to attendees.",
+    "propertyInfo": null,
+    "tags": ["finance", "mortgage", "broker", "pre-approval"]
+  }
+]

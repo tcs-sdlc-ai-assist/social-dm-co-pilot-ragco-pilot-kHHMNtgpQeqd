@@ -1,0 +1,147 @@
+import type { Config } from "tailwindcss";
+
+const config: Config = {
+  content: [
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  darkMode: "class",
+  theme: {
+    extend: {
+      colors: {
+        brand: {
+          50: "#e6f5ec",
+          100: "#ccebda",
+          200: "#99d7b5",
+          300: "#66c38f",
+          400: "#33af6a",
+          500: "#009B45",
+          600: "#007c37",
+          700: "#005d29",
+          800: "#003e1c",
+          900: "#001f0e",
+          950: "#001007",
+        },
+        confidence: {
+          high: "#16a34a",
+          "high-bg": "#dcfce7",
+          "high-border": "#86efac",
+          medium: "#ca8a04",
+          "medium-bg": "#fef9c3",
+          "medium-border": "#fde047",
+          low: "#dc2626",
+          "low-bg": "#fee2e2",
+          "low-border": "#fca5a5",
+        },
+        status: {
+          new: "#3b82f6",
+          "new-bg": "#dbeafe",
+          "new-border": "#93c5fd",
+          drafted: "#8b5cf6",
+          "drafted-bg": "#ede9fe",
+          "drafted-border": "#c4b5fd",
+          sent: "#16a34a",
+          "sent-bg": "#dcfce7",
+          "sent-border": "#86efac",
+          escalated: "#dc2626",
+          "escalated-bg": "#fee2e2",
+          "escalated-border": "#fca5a5",
+        },
+      },
+      spacing: {
+        "4.5": "1.125rem",
+        "13": "3.25rem",
+        "15": "3.75rem",
+        "18": "4.5rem",
+        "22": "5.5rem",
+        "26": "6.5rem",
+        "30": "7.5rem",
+        "34": "8.5rem",
+        "sidebar": "280px",
+        "sidebar-collapsed": "64px",
+        "header": "64px",
+        "panel": "360px",
+      },
+      fontSize: {
+        "2xs": ["0.625rem", { lineHeight: "0.875rem" }],
+        "heading-1": ["2rem", { lineHeight: "2.5rem", fontWeight: "700" }],
+        "heading-2": ["1.5rem", { lineHeight: "2rem", fontWeight: "700" }],
+        "heading-3": ["1.25rem", { lineHeight: "1.75rem", fontWeight: "600" }],
+        "heading-4": ["1.125rem", { lineHeight: "1.5rem", fontWeight: "600" }],
+        "body-lg": ["1.125rem", { lineHeight: "1.75rem" }],
+        "body": ["1rem", { lineHeight: "1.5rem" }],
+        "body-sm": ["0.875rem", { lineHeight: "1.25rem" }],
+        "caption": ["0.75rem", { lineHeight: "1rem" }],
+      },
+      fontFamily: {
+        sans: [
+          "Inter",
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Segoe UI",
+          "Roboto",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif",
+        ],
+        mono: [
+          "JetBrains Mono",
+          "ui-monospace",
+          "SFMono-Regular",
+          "Menlo",
+          "Monaco",
+          "Consolas",
+          "monospace",
+        ],
+      },
+      borderRadius: {
+        "4xl": "2rem",
+      },
+      boxShadow: {
+        "card": "0 1px 3px 0 rgb(0 0 0 / 0.06), 0 1px 2px -1px rgb(0 0 0 / 0.06)",
+        "card-hover": "0 4px 6px -1px rgb(0 0 0 / 0.08), 0 2px 4px -2px rgb(0 0 0 / 0.06)",
+        "panel": "0 10px 15px -3px rgb(0 0 0 / 0.08), 0 4px 6px -4px rgb(0 0 0 / 0.04)",
+        "dropdown": "0 10px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.06)",
+      },
+      animation: {
+        "fade-in": "fadeIn 0.2s ease-in-out",
+        "slide-in-right": "slideInRight 0.3s ease-out",
+        "slide-in-left": "slideInLeft 0.3s ease-out",
+        "slide-up": "slideUp 0.3s ease-out",
+        "pulse-soft": "pulseSoft 2s ease-in-out infinite",
+      },
+      keyframes: {
+        fadeIn: {
+          "0%": { opacity: "0" },
+          "100%": { opacity: "1" },
+        },
+        slideInRight: {
+          "0%": { transform: "translateX(100%)", opacity: "0" },
+          "100%": { transform: "translateX(0)", opacity: "1" },
+        },
+        slideInLeft: {
+          "0%": { transform: "translateX(-100%)", opacity: "0" },
+          "100%": { transform: "translateX(0)", opacity: "1" },
+        },
+        slideUp: {
+          "0%": { transform: "translateY(10px)", opacity: "0" },
+          "100%": { transform: "translateY(0)", opacity: "1" },
+        },
+        pulseSoft: {
+          "0%, 100%": { opacity: "1" },
+          "50%": { opacity: "0.7" },
+        },
+      },
+      transitionDuration: {
+        "250": "250ms",
+        "350": "350ms",
+        "400": "400ms",
+      },
+    },
+  },
+  plugins: [],
+};
+
+export default config;

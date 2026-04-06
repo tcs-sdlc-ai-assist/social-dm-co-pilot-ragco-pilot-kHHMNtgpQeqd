@@ -1,0 +1,421 @@
+[
+  {
+    "id": "dm-001",
+    "platform": "facebook",
+    "conversationId": "conv-001",
+    "sender": {
+      "id": "user-101",
+      "name": "Sarah Mitchell",
+      "handle": "sarah.mitchell.92",
+      "avatarUrl": "https://i.pravatar.cc/150?u=sarah.mitchell"
+    },
+    "content": "Hi there! I'm interested in the new townhouses at Stockland Willowdale. Could you let me know the starting price for a 3-bedroom?",
+    "timestamp": "2024-10-28T09:15:00.000Z",
+    "intent": "pricing",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.92,
+    "slaDeadline": "2024-10-28T10:15:00.000Z",
+    "metadata": {
+      "communityName": "Willowdale",
+      "propertyType": "townhouse",
+      "bedrooms": 3
+    }
+  },
+  {
+    "id": "dm-002",
+    "platform": "instagram",
+    "conversationId": "conv-002",
+    "sender": {
+      "id": "user-102",
+      "name": "James Nguyen",
+      "handle": "james.nguyen_",
+      "avatarUrl": "https://i.pravatar.cc/150?u=james.nguyen"
+    },
+    "content": "Hey, where exactly is the Stockland Aura community located? Is it close to any train stations?",
+    "timestamp": "2024-10-28T09:32:00.000Z",
+    "intent": "location",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.85,
+    "slaDeadline": "2024-10-28T10:32:00.000Z",
+    "metadata": {
+      "communityName": "Aura",
+      "propertyType": null,
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-003",
+    "platform": "facebook",
+    "conversationId": "conv-003",
+    "sender": {
+      "id": "user-103",
+      "name": "Emily Watson",
+      "handle": "emily.watson.homes",
+      "avatarUrl": "https://i.pravatar.cc/150?u=emily.watson"
+    },
+    "content": "Are there any house and land packages still available at Minta? We're looking for something under $650k with 4 bedrooms.",
+    "timestamp": "2024-10-28T10:05:00.000Z",
+    "intent": "availability",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.94,
+    "slaDeadline": "2024-10-28T11:05:00.000Z",
+    "metadata": {
+      "communityName": "Minta",
+      "propertyType": "house_and_land",
+      "bedrooms": 4
+    }
+  },
+  {
+    "id": "dm-004",
+    "platform": "instagram",
+    "conversationId": "conv-004",
+    "sender": {
+      "id": "user-104",
+      "name": "David Park",
+      "handle": "davidpark.au",
+      "avatarUrl": "https://i.pravatar.cc/150?u=david.park"
+    },
+    "content": "I'd love to book an inspection at the Stockland Elara display village this Saturday. What times are available?",
+    "timestamp": "2024-10-28T10:22:00.000Z",
+    "intent": "booking_inspection",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.96,
+    "slaDeadline": "2024-10-28T11:22:00.000Z",
+    "metadata": {
+      "communityName": "Elara",
+      "propertyType": "display_home",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-005",
+    "platform": "facebook",
+    "conversationId": "conv-005",
+    "sender": {
+      "id": "user-105",
+      "name": "Rachel Thompson",
+      "handle": "rachel.t.thompson",
+      "avatarUrl": "https://i.pravatar.cc/150?u=rachel.thompson"
+    },
+    "content": "Just wondering what the community facilities are like at Stockland Cloverton? Parks, shops, schools nearby?",
+    "timestamp": "2024-10-28T10:45:00.000Z",
+    "intent": "general_inquiry",
+    "status": "new",
+    "priority": "low",
+    "confidenceScore": 0.72,
+    "slaDeadline": "2024-10-28T11:45:00.000Z",
+    "metadata": {
+      "communityName": "Cloverton",
+      "propertyType": null,
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-006",
+    "platform": "instagram",
+    "conversationId": "conv-006",
+    "sender": {
+      "id": "user-106",
+      "name": "Michael Chen",
+      "handle": "mike.chen.property",
+      "avatarUrl": "https://i.pravatar.cc/150?u=michael.chen"
+    },
+    "content": "What's the price range for land lots at Stockland Katalia? Looking for around 400sqm.",
+    "timestamp": "2024-10-28T11:00:00.000Z",
+    "intent": "pricing",
+    "status": "drafted",
+    "priority": "high",
+    "confidenceScore": 0.91,
+    "slaDeadline": "2024-10-28T12:00:00.000Z",
+    "draftResponse": "Hi Michael! Thanks for your interest in Katalia. Land lots around 400sqm are currently priced from $320,000 to $385,000 depending on the specific lot and orientation. Would you like me to send you the latest lot release map?",
+    "metadata": {
+      "communityName": "Katalia",
+      "propertyType": "land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-007",
+    "platform": "facebook",
+    "conversationId": "conv-007",
+    "sender": {
+      "id": "user-107",
+      "name": "Lisa Patel",
+      "handle": "lisa.patel.55",
+      "avatarUrl": "https://i.pravatar.cc/150?u=lisa.patel"
+    },
+    "content": "Hi! Can I book a time to visit the Stockland Altrove sales centre? We're first home buyers and not sure where to start.",
+    "timestamp": "2024-10-28T11:18:00.000Z",
+    "intent": "booking_inspection",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.88,
+    "slaDeadline": "2024-10-28T12:18:00.000Z",
+    "metadata": {
+      "communityName": "Altrove",
+      "propertyType": null,
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-008",
+    "platform": "instagram",
+    "conversationId": "conv-008",
+    "sender": {
+      "id": "user-108",
+      "name": "Tom Bradley",
+      "handle": "tombradley_realestate",
+      "avatarUrl": "https://i.pravatar.cc/150?u=tom.bradley"
+    },
+    "content": "Are the lots at Stockland Highlands still selling? I heard stage 12 was released last week.",
+    "timestamp": "2024-10-28T11:40:00.000Z",
+    "intent": "availability",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.83,
+    "slaDeadline": "2024-10-28T12:40:00.000Z",
+    "metadata": {
+      "communityName": "Highlands",
+      "propertyType": "land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-009",
+    "platform": "facebook",
+    "conversationId": "conv-009",
+    "sender": {
+      "id": "user-109",
+      "name": "Amanda Foster",
+      "handle": "amanda.foster.living",
+      "avatarUrl": "https://i.pravatar.cc/150?u=amanda.foster"
+    },
+    "content": "We're relocating from Sydney to Melbourne. Can you tell me about the Stockland communities in the western suburbs? Budget is around $550k for a 3-bed house.",
+    "timestamp": "2024-10-28T12:05:00.000Z",
+    "intent": "general_inquiry",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.76,
+    "slaDeadline": "2024-10-28T13:05:00.000Z",
+    "metadata": {
+      "communityName": null,
+      "propertyType": "house_and_land",
+      "bedrooms": 3
+    }
+  },
+  {
+    "id": "dm-010",
+    "platform": "instagram",
+    "conversationId": "conv-010",
+    "sender": {
+      "id": "user-110",
+      "name": "Chris O'Brien",
+      "handle": "chrisobrien.melb",
+      "avatarUrl": "https://i.pravatar.cc/150?u=chris.obrien"
+    },
+    "content": "How much are the 2-bedroom apartments at Stockland Green Hills? Do you offer any first home buyer incentives?",
+    "timestamp": "2024-10-28T12:30:00.000Z",
+    "intent": "pricing",
+    "status": "sent",
+    "priority": "high",
+    "confidenceScore": 0.9,
+    "slaDeadline": "2024-10-28T13:30:00.000Z",
+    "draftResponse": "Hi Chris! Great question. Our 2-bedroom apartments at Green Hills start from $425,000. We do have some fantastic incentives for first home buyers including stamp duty savings and potential grants. I'd love to chat more — would you like to book a call with our sales team?",
+    "sentAt": "2024-10-28T12:42:00.000Z",
+    "metadata": {
+      "communityName": "Green Hills",
+      "propertyType": "apartment",
+      "bedrooms": 2
+    }
+  },
+  {
+    "id": "dm-011",
+    "platform": "facebook",
+    "conversationId": "conv-011",
+    "sender": {
+      "id": "user-111",
+      "name": "Priya Sharma",
+      "handle": "priya.sharma.property",
+      "avatarUrl": "https://i.pravatar.cc/150?u=priya.sharma"
+    },
+    "content": "Is the Stockland Willowdale sales office open on public holidays? We can only visit on the upcoming long weekend.",
+    "timestamp": "2024-10-28T13:00:00.000Z",
+    "intent": "general_inquiry",
+    "status": "new",
+    "priority": "low",
+    "confidenceScore": 0.68,
+    "slaDeadline": "2024-10-28T14:00:00.000Z",
+    "metadata": {
+      "communityName": "Willowdale",
+      "propertyType": null,
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-012",
+    "platform": "instagram",
+    "conversationId": "conv-012",
+    "sender": {
+      "id": "user-112",
+      "name": "Ben Lawson",
+      "handle": "benlawson_invest",
+      "avatarUrl": "https://i.pravatar.cc/150?u=ben.lawson"
+    },
+    "content": "I'm an investor looking at Stockland Aura. What's the expected rental yield for a 4-bed house in that area? Any lots with dual occupancy potential?",
+    "timestamp": "2024-10-28T13:25:00.000Z",
+    "intent": "pricing",
+    "status": "escalated",
+    "priority": "high",
+    "confidenceScore": 0.62,
+    "slaDeadline": "2024-10-28T14:25:00.000Z",
+    "escalationReason": "Investment-specific query requires specialist knowledge about rental yields and zoning regulations",
+    "metadata": {
+      "communityName": "Aura",
+      "propertyType": "house_and_land",
+      "bedrooms": 4
+    }
+  },
+  {
+    "id": "dm-013",
+    "platform": "facebook",
+    "conversationId": "conv-013",
+    "sender": {
+      "id": "user-113",
+      "name": "Karen Williams",
+      "handle": "karen.williams.au",
+      "avatarUrl": "https://i.pravatar.cc/150?u=karen.williams"
+    },
+    "content": "Can I get a site map for the latest land release at Stockland Elara? Also, are there any corner lots available?",
+    "timestamp": "2024-10-28T13:50:00.000Z",
+    "intent": "availability",
+    "status": "drafted",
+    "priority": "medium",
+    "confidenceScore": 0.87,
+    "slaDeadline": "2024-10-28T14:50:00.000Z",
+    "draftResponse": "Hi Karen! Absolutely, I can send through the latest site map for Elara. We do have a couple of corner lots remaining in the current release — they tend to go quickly! I'll DM you the map now. Would you also like to register for our next release notification?",
+    "metadata": {
+      "communityName": "Elara",
+      "propertyType": "land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-014",
+    "platform": "instagram",
+    "conversationId": "conv-014",
+    "sender": {
+      "id": "user-114",
+      "name": "Daniel Kim",
+      "handle": "danielkim.homes",
+      "avatarUrl": "https://i.pravatar.cc/150?u=daniel.kim"
+    },
+    "content": "What builders are available at Stockland Minta? Can we choose our own builder or do we have to use one of yours?",
+    "timestamp": "2024-10-28T14:10:00.000Z",
+    "intent": "general_inquiry",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.79,
+    "slaDeadline": "2024-10-28T15:10:00.000Z",
+    "metadata": {
+      "communityName": "Minta",
+      "propertyType": "house_and_land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-015",
+    "platform": "facebook",
+    "conversationId": "conv-015",
+    "sender": {
+      "id": "user-115",
+      "name": "Sophie Martin",
+      "handle": "sophie.martin.design",
+      "avatarUrl": "https://i.pravatar.cc/150?u=sophie.martin"
+    },
+    "content": "I saw your ad for Stockland Cloverton on Facebook. Can I book an inspection for this weekend? Preferably Sunday morning around 10am.",
+    "timestamp": "2024-10-28T14:35:00.000Z",
+    "intent": "booking_inspection",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.95,
+    "slaDeadline": "2024-10-28T15:35:00.000Z",
+    "metadata": {
+      "communityName": "Cloverton",
+      "propertyType": "display_home",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-016",
+    "platform": "instagram",
+    "conversationId": "conv-016",
+    "sender": {
+      "id": "user-116",
+      "name": "Alex Turner",
+      "handle": "alexturner.property",
+      "avatarUrl": "https://i.pravatar.cc/150?u=alex.turner"
+    },
+    "content": "Do you have any single-storey homes available at Stockland Highlands? My parents are downsizing and need something accessible.",
+    "timestamp": "2024-10-28T15:00:00.000Z",
+    "intent": "availability",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.86,
+    "slaDeadline": "2024-10-28T16:00:00.000Z",
+    "metadata": {
+      "communityName": "Highlands",
+      "propertyType": "house_and_land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-017",
+    "platform": "facebook",
+    "conversationId": "conv-017",
+    "sender": {
+      "id": "user-117",
+      "name": "Natalie Brooks",
+      "handle": "natalie.brooks.23",
+      "avatarUrl": "https://i.pravatar.cc/150?u=natalie.brooks"
+    },
+    "content": "How much deposit do I need for a house and land package at Stockland Katalia? And do you have any finance partners you recommend?",
+    "timestamp": "2024-10-28T15:20:00.000Z",
+    "intent": "pricing",
+    "status": "new",
+    "priority": "high",
+    "confidenceScore": 0.82,
+    "slaDeadline": "2024-10-28T16:20:00.000Z",
+    "metadata": {
+      "communityName": "Katalia",
+      "propertyType": "house_and_land",
+      "bedrooms": null
+    }
+  },
+  {
+    "id": "dm-018",
+    "platform": "instagram",
+    "conversationId": "conv-018",
+    "sender": {
+      "id": "user-118",
+      "name": "Ryan Cooper",
+      "handle": "ryancooper.melb",
+      "avatarUrl": "https://i.pravatar.cc/150?u=ryan.cooper"
+    },
+    "content": "Is Stockland Altrove connected to public transport? My wife and I both commute to the CBD for work.",
+    "timestamp": "2024-10-28T15:45:00.000Z",
+    "intent": "location",
+    "status": "new",
+    "priority": "medium",
+    "confidenceScore": 0.84,
+    "slaDeadline": "2024-10-28T16:45:00.000Z",
+    "metadata": {
+      "communityName": "Altrove",
+      "propertyType": null,
+      "bedrooms": null
+    }
+  }
+]
